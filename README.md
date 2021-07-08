@@ -1,16 +1,28 @@
 ### Hi there 👋
+#### Thanks for visiting my profile
 
-<!--
-**AdrianoBarbosa/AdrianoBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 My Experience
+Over 10 years of experience with
+- .Net Framework C#
+- .Net Core
+- Asp.Net MVC
+- SQL Server
+- Git
+- SCRUM
 
-Here are some ideas to get you started:
+I always try to write clean code and good practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Now studying
+- NodeJS
+- .Net Core
+- RabbitMQ
+- Redis
+- Docker
+
+🚀 Warming up and getting ready for great things to come.
+
+🎯 More focused than ever.
+
+📫 How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianoobarbosa)](https://www.linkedin.com/in/adrianoobarbosa)
